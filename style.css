@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+.title{
+    color: white;
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;;
+}
+.para{
+    color: grey;
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Satisfy', cursive;;
+}
+.poster{
+    
+}
+.text{
+    border: 1px solid grey;
+    border-width : 3px 0px 3px 0px ;
+}
